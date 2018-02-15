@@ -1,3 +1,5 @@
 
 CodeVS/gmon.out
 *.out
+*.exe
+*.o
